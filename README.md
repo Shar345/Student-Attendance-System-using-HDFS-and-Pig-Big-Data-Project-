@@ -1,4 +1,4 @@
-# Student-Attendance-Project-using-HDFS-and-Pig-Big-Data-Project-
+# Student Attendance System using HDFS and Pig (Big Data Project)
 
 ##Hadoop run codes
 http://localhost:50070/ (open Hadoop on browser)<br>
